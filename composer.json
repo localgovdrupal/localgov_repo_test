@@ -1,11 +1,11 @@
 {
-    "name": "localgovdrupal/localgov_repo_test",
+    "name": "drupal/localgov_repo_test",
     "description": "Test Repo for migration to Drupal.org",
     "type": "drupal-module",
     "homepage": "https://github.com/localgovdrupal/localgov_repo_test",
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
     "require": {
-        "localgovdrupal/localgov_core": "^2.0"
+        "drupal/localgov_core": "^2.0"
     }
 }
